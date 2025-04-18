@@ -1,11 +1,11 @@
 ### Hi there, I am Anubhav Krishna <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-- 👀 I’m interested in Python.
+- 👀 I’m interested only in Python.
 - 🌱 I’m currently learning Ai with Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my python projects.
 - 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i don't know.
 
 ## Programming Languages:
 
